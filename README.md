@@ -16,5 +16,6 @@
 Дополнительно реализованы методы `reverse`, `swap`, `forEach`, `insert`, `toArray`.
 
 Запускается так:
-javac Main.java
+```bash
+javac src/Main.java
 java Main
